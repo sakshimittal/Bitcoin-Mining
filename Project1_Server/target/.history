@@ -1,0 +1,6 @@
+run
+run 3
+run MainProg 3
+run
+quit
+exit

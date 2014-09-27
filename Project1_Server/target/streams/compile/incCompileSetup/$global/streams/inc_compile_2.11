@@ -1,0 +1,458 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+31 items
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$$anonfun$2.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$$anonfun$receive$1$$anonfun$applyOrElse$1$$anonfun$apply$1$$anonfun$apply$mcV$sp$1.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$$anonfun$receive$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$$anonfun$receive$1$$anonfun$applyOrElse$2.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$$anonfun$receive$1.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$DoneMining$.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$FinalResult$.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$FinalResult.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$FindBitCoin$.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$MessageType.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$ResultFromRemote$.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$ResultFromRemote.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$ReturnBitCoin$.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$ReturnBitCoin.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$StartBitMining$.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$StartBitMining.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$StartWork$.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$StartWork.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\MainProg$$anonfun$1.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\MainProg$.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\MainProg.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\Master$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\Master$$anonfun$receive$1$$anonfun$applyOrElse$2.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\Master$$anonfun$receive$1.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\Master.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\Worker$$anonfun$receive$1.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\Worker$$anonfun$sha256$1.class
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\Worker.class
+binary dependencies:
+10 items
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Program Files\Java\jre8\lib\rt.jar
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Users\Sakshi\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Users\Sakshi\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Users\Sakshi\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> C:\Program Files\Java\jre8\lib\rt.jar
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> C:\Users\Sakshi\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> C:\Users\Sakshi\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> C:\Program Files\Java\jre8\lib\rt.jar
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> C:\Users\Sakshi\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> C:\Users\Sakshi\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+4 items
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+31 items
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin$
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin$$anonfun$2
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin$$anonfun$receive$1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin$$anonfun$receive$1$$anonfun$applyOrElse$1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin$$anonfun$receive$1$$anonfun$applyOrElse$1$$anonfun$apply$1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin$$anonfun$receive$1$$anonfun$applyOrElse$1$$anonfun$apply$1$$anonfun$apply$mcV$sp$1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin$$anonfun$receive$1$$anonfun$applyOrElse$2
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin$DoneMining$
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin$FinalResult
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin$FinalResult$
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin$FindBitCoin$
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin$MessageType
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin$ResultFromRemote
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin$ResultFromRemote$
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin$ReturnBitCoin
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin$ReturnBitCoin$
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin$StartBitMining
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin$StartBitMining$
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin$StartWork
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin$StartWork$
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> MainProg
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> MainProg$
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> MainProg$$anonfun$1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> Master
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> Master$$anonfun$receive$1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> Master$$anonfun$receive$1$$anonfun$applyOrElse$1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> Master$$anonfun$receive$1$$anonfun$applyOrElse$2
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> Worker
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> Worker$$anonfun$receive$1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> Worker$$anonfun$sha256$1
+used names:
+264 items
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> !
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> &&
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> +
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> ->
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> <
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> <init>
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> ==
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> A1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> AbstractFunction1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> AbstractFunction2
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> AbstractFunction3
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> Actor
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> ActorRef
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> ActorRefFactory
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> ActorSystem
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> AnyRef
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> App
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> Array
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> ArrayBuffer
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> B1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> BitCoin
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> Breaks
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> ClassTag
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> ConfigFactory
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> DoneMining
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> FinalResult
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> FindBitCoin
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> Function1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> InetAddress
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> Int
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> Long
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> MainProg
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> Map
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> Master
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> MessageType
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> None
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> Predef
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> Product
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> Props
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> ResultFromRemote
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> ReturnBitCoin
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> ScalaRunTime
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> Serializable
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> StartBitMining
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> StartWork
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> Statics
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> String
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> System
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> Unit
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> _1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> _2
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> _hashCode
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> _toString
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> actor
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> actorOf
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> actorRef2Scala
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> akka
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> anyHash
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> apply
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> asInstanceOf
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> break
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> breakable
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> charAt
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> collection
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> com
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> config
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> contains
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> context
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> control
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> countZero
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> currentTimeMillis
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> eq
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> equals
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> exit
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> finalList
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> finalizeHash
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> foreach
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> getHostAddress
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> getLocalHost
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> hostIP
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> i
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> intWrapper
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> isInstanceOf
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> java
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> key
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> lang
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> length
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> listOfCoins
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> load
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> longHash
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> loop
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> master
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> masterRef
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> materializeClassTag
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> maxInput
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> maxOutput
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> maxZero
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> mix
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> mutable
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> ne
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> net
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> noOfCoins
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> noOfZeroes
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> noOfZeros
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> noOfcoins
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> package
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> parseString
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> println
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> runtime
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> scala
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> self
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> sender
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> serverSystem
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> start
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> startTimer
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> stop
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> str
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> to
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> toString
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> typedProductIterator
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> typesafe
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> unary_!
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> unchecked
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> util
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> value
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> ||
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> !
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> +
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> ->
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> <init>
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> ==
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> A1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> Actor
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> ActorRef
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> B1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> BitCoin
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> ClassTag
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> DoneMining
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> FindBitCoin
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> Function1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> Int
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> Long
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> Map
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> Master
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> Predef
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> Props
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> RoundRobinRouter
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> String
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> Worker
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> _1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> _2
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> actor
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> actorOf
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> actorRef2Scala
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> akka
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> apply
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> asInstanceOf
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> bitCoin
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> context
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> foreach
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> intWrapper
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> isInstanceOf
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> key
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> listByWorker
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> listOfCoins
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> listOfCoins_=
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> materializeClassTag
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> ne
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> noOfCoins
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> noOfCoins_=
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> noOfWorkers
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> noOfZeros
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> noWorerkDone
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> noWorerkDone_=
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> package
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> println
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> routing
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> scala
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> self
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> startTimer
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> stringLength
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> to
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> unchecked
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> value
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> withRouter
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> worker
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> !
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> !=
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> +
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> ++
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> -
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> ->
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> <init>
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> ==
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> A1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> Actor
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> Array
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> B1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> BitCoin
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> ClassTag
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> DoneMining
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> Function1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> Int
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> Long
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> Map
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> MessageDigest
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> Predef
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> Random
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> String
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> StringCanBuildFrom
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> System
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> Worker
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> actor
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> actorRef2Scala
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> akka
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> apply
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> asInstanceOf
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> augmentString
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> byteArrayOps
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> canBuildFrom
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> charAt
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> collection
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> context
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> currentTimeMillis
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> digest
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> empty
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> equals
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> format
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> getBytes
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> getInstance
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> immutable
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> input
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> isInstanceOf
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> java
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> lang
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> length
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> listOfCoins
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> listOfCoins_=
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> m
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> map
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> materializeClassTag
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> mkString
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> n
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> nextPrintableChar
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> output
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> package
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> randomStringGenerator
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> refArrayOps
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> s
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> scala
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> security
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> self
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> sender
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> sha256
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> size
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> start
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> startMining
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> stop
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> toString
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> unchecked
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> util
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> while$1
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> x
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> y
+product stamps:
+31 items
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$$anonfun$2.class -> lastModified(1411156283055)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$$anonfun$receive$1$$anonfun$applyOrElse$1$$anonfun$apply$1$$anonfun$apply$mcV$sp$1.class -> lastModified(1411156283096)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$$anonfun$receive$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class -> lastModified(1411156283090)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1411156283082)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$$anonfun$receive$1$$anonfun$applyOrElse$2.class -> lastModified(1411156283101)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$$anonfun$receive$1.class -> lastModified(1411156283077)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$.class -> lastModified(1411156283006)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$DoneMining$.class -> lastModified(1411156283105)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$FinalResult$.class -> lastModified(1411156283109)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$FinalResult.class -> lastModified(1411156283118)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$FindBitCoin$.class -> lastModified(1411156283122)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$MessageType.class -> lastModified(1411156283123)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$ResultFromRemote$.class -> lastModified(1411156283132)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$ResultFromRemote.class -> lastModified(1411156283128)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$ReturnBitCoin$.class -> lastModified(1411156283140)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$ReturnBitCoin.class -> lastModified(1411156283137)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$StartBitMining$.class -> lastModified(1411156283151)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$StartBitMining.class -> lastModified(1411156283146)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$StartWork$.class -> lastModified(1411156283165)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin$StartWork.class -> lastModified(1411156283159)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\BitCoin.class -> lastModified(1411156283044)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\MainProg$$anonfun$1.class -> lastModified(1411156283185)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\MainProg$.class -> lastModified(1411156283180)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\MainProg.class -> lastModified(1411156283173)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\Master$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1411155062613)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\Master$$anonfun$receive$1$$anonfun$applyOrElse$2.class -> lastModified(1411155062618)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\Master$$anonfun$receive$1.class -> lastModified(1411155062609)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\Master.class -> lastModified(1411155062602)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\Worker$$anonfun$receive$1.class -> lastModified(1411155062634)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\Worker$$anonfun$sha256$1.class -> lastModified(1411155062637)
+C:\Eclipse Workspace\Project1\Project1_Server\target\scala-2.11\classes\Worker.class -> lastModified(1411155062630)
+source stamps:
+3 items
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> hash(f67bbccca45c77cb5053307eace4b32bfbf8a4ee)
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> hash(28e01ef67af0c9d18277d7f53fb2af7f17dfc289)
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> hash(4432961310a51ea7865d6224c89592f89510aff0)
+binary stamps:
+4 items
+C:\Program Files\Java\jre8\lib\rt.jar -> lastModified(1399930202556)
+C:\Users\Sakshi\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar -> lastModified(1409900350000)
+C:\Users\Sakshi\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar -> lastModified(1399042454000)
+C:\Users\Sakshi\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar -> lastModified(1406097530000)
+class names:
+4 items
+C:\Program Files\Java\jre8\lib\rt.jar -> java.lang.Object
+C:\Users\Sakshi\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar -> akka.actor.Actor
+C:\Users\Sakshi\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar -> com.typesafe.config.ConfigFactory
+C:\Users\Sakshi\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar -> scala.Serializable
+internal apis:
+3 items
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCC0ondAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw2vwE+HQABHNlbGZzcQB+AAv1/lBRdAAHY29udGV4dHVxAH4ACQAAAEhzcQB+AAsb/8wodAAJbm9PZlplcm9zc3EAfgALWsonQXQABm5vdGlmeXNxAH4AC2s+0NV0AAd1bmFwcGx5c3EAfgALAoHPsHQAB2N1cnJpZWRzcQB+AAtHQYh5dAAHUmVjZWl2ZXNxAH4ACy3xcUJ0AAltYXN0ZXJSZWZzcQB+AAvLpgWPdAAKc3RhcnRUaW1lcnNxAH4AC+pYYG10AAR3YWl0c3EAfgALXxBflnQADmNvcHkkZGVmYXVsdCQyc3EAfgALBTDN0XQADSRhc0luc3RhbmNlT2ZzcQB+AAs/NqJgdAAHY29tcG9zZXNxAH4AC+WcHw10AAxwcm9kdWN0QXJpdHlzcQB+AAsPLuFudAAGbWFzdGVyc3EAfgALxXwKaHQABmVxdWFsc3NxAH4ACye3WDV0AAxhc0luc3RhbmNlT2ZzcQB+AAtcG6aidAAOZXhlY3V0aW9uU3RhcnRzcQB+AAv+aOmJdAAKRG9uZU1pbmluZ3NxAH4AC9dyFJh0AAxzeW5jaHJvbml6ZWRzcQB+AAtXmZtidAANJGlzSW5zdGFuY2VPZnNxAH4ACxqF4kZ0AAdhbmRUaGVuc3EAfgALCdlhWnQAB3JlY2VpdmVzcQB+AAtPgFBudAAKcHJlUmVzdGFydHNxAH4AC1a74it0AAZ0dXBsZWRzcQB+AAtAo/5wdAANYXJvdW5kUmVjZWl2ZXNxAH4ACwXsni10AA1SZXR1cm5CaXRDb2luc3EAfgAL0IZlIHQACGNhbkVxdWFsc3EAfgALh+itAHQAC3Bvc3RSZXN0YXJ0c3EAfgALNAAIWHQABG1haW5zcQB+AAs6FBo2dAAIcG9zdFN0b3BzcQB+AAttwkiAdAANcHJvZHVjdFByZWZpeHNxAH4ACx/GQgd0AAlub3RpZnlBbGxzcQB+AAss2rNSdAALcmVhZFJlc29sdmVzcQB+AAsTwSRTdAAITWFpblByb2dzcQB+AAvy3ijOdAALRmluYWxSZXN1bHRzcQB+AAsx1I1SdAALTWVzc2FnZVR5cGVzcQB+AAvU6zZxdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAucfSEqdAAOU3RhcnRCaXRNaW5pbmdzcQB+AAtBNNO4dAAMaXNJbnN0YW5jZU9mc3EAfgALJggZqnQACVN0YXJ0V29ya3NxAH4AC1uINix0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALr6iXrnQADmFyb3VuZFBvc3RTdG9wc3EAfgAL5Cz+0HQABjxpbml0PnNxAH4AC24Bzhh0AAlub09mY29pbnNzcQB+AAtnx5MTdAAIcHJlU3RhcnRzcQB+AAt0547SdAAQUmVzdWx0RnJvbVJlbW90ZXNxAH4AC14TDPB0AAl1bmhhbmRsZWRzcQB+AAuZqEQ+dAAFYXBwbHlzcQB+AAtpB8WAdAACPT1zcQB+AAs2gO1ldAAFY2xvbmVzcQB+AAuVVN3ydAALRmluZEJpdENvaW5zcQB+AAutqICCdAAOY29weSRkZWZhdWx0JDNzcQB+AAvxXVWvdAAEY29weXNxAH4ACxygy5V0AAZzZW5kZXJzcQB+AAvitOqDdAAIdG9TdHJpbmdzcQB+AAuCHX8zdAAEYXJnc3NxAH4AC1a8o/p0AAZsZW5ndGhzcQB+AAuC+gusdAALbGlzdE9mQ29pbnNzcQB+AAv9ouS8dAACIT1zcQB+AAvr7tZzdAAIZ2V0Q2xhc3NzcQB+AAu2FMQXdAAOY29weSRkZWZhdWx0JDFzcQB+AAulmWI8dAAHQml0Q29pbnNxAH4AC+RmvSp0AAVzdGFydHNxAH4AC3cP8AJ0AAJuZXNxAH4AC5kj4td0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAuzW2VsdAACZXFzcQB+AAskNS10dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALX/sfJHQAC2RlbGF5ZWRJbml0c3EAfgALZjffwXQAAiMjc3EAfgALlEE5jXQACGZpbmFsaXplc3EAfgALeWK5F3QADnByb2R1Y3RFbGVtZW50c3EAfgALsEQ41HQACGhhc2hDb2Rlc3EAfgALhxpxZnQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAA3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Aq3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgBTdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAEHNjYWxhLmRlcHJlY2F0ZWRzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AwwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Aq0wACWluaGVyaXRlZHEAfgCrTAAHcGFyZW50c3EAfgCreHEAfgDKc3EAfgDDAXVxAH4ApgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ArHEAfgC1dXEAfgC2AAAAAHNxAH4AuAJxAH4ASXVxAH4AugAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgDJdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AyXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A5XVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+ANJ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AL10AAVQbGFpbnEAfgB/c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgDZWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgDJc3EAfgDYdAAFQXJyYXlxAH4A3nVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgDYdAAGU3RyaW5nc3EAfgDcc3EAfgDfdXEAfgDiAAAAA3NxAH4A5HQABGphdmFzcQB+AOR0AARsYW5ncQB+AOlwc3EAfgDDAXVxAH4ApgAAAABwc3EAfgDDAXVxAH4A/AAAAARzcQB+ANh0AANBcHBxAH4A3nNxAH4A2HQAC0RlbGF5ZWRJbml0cQB+AN5zcQB+ANh0AAZPYmplY3RxAH4BAHNxAH4A2HQAA0FueXEAfgDecHBzcQB+AKhxAH4AtXVxAH4AtgAAAABzcQB+ALgAcQB+AIt1cQB+ALoAAAAAcQB+AL51cQB+AMAAAAAAc3EAfgDDAXEAfgDLcHNxAH4AwwFzcQB+AM1zcQB+AMMBdXEAfgCmAAAAAHBzcQB+AMMBdXEAfgCmAAAAAHBzcQB+AMMBdXEAfgD8AAAAAnNxAH4A2HEAfgEQc3EAfgDcc3EAfgDfdXEAfgDiAAAAA3NxAH4A5HEAfgEEc3EAfgDkcQB+AQZxAH4A6XNxAH4A2HEAfgESc3EAfgDcc3EAfgDfdXEAfgDiAAAAAnNxAH4A5HEAfgDncQB+AOlwcHNxAH4AqHEAfgC1dXEAfgC2AAAAAHNxAH4AuAB0AAdCaXRDb2ludXEAfgC6AAAAAH5xAH4AvHQACENsYXNzRGVmdXEAfgDAAAAAAHNxAH4AwwFxAH4Ay3BzcQB+AMMBc3EAfgDNc3EAfgDDAXVxAH4ApgAAAABwc3EAfgDDAXVxAH4ApgAAAABwc3EAfgDDAXVxAH4A/AAAAANzcQB+ANh0AAVBY3RvcnNxAH4A3HNxAH4A33VxAH4A4gAAAANzcQB+AOR0AARha2thc3EAfgDkdAAFYWN0b3JxAH4A6XNxAH4A2HEAfgEQc3EAfgDcc3EAfgDfdXEAfgDiAAAAA3NxAH4A5HEAfgEEc3EAfgDkcQB+AQZxAH4A6XNxAH4A2HEAfgESc3EAfgDcc3EAfgDfdXEAfgDiAAAAAnNxAH4A5HEAfgDncQB+AOlwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFIj3f5V3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEdDOlxFY2xpcHNlIFdvcmtzcGFjZVxQcm9qZWN0MVxQcm9qZWN0MV9TZXJ2ZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPZ7vMykXHfLUFMwfqzksyv7+KTu
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA/yES0AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwzEGTq3QABHNlbGZzcQB+AAvtg0pkdAAHY29udGV4dHVxAH4ACQAAACdzcQB+AAs6Bv6wdAAMbm9Xb3JlcmtEb25lc3EAfgAL50ypjHQABm5vdGlmeXNxAH4ACz3UiXF0AAdSZWNlaXZlc3EAfgALvxV4OHQABHdhaXRzcQB+AAvzY92PdAAGTWFzdGVyc3EAfgALJesnxnQADSRhc0luc3RhbmNlT2ZzcQB+AAsHNjZ+dAAGZXF1YWxzc3EAfgALvGAEbXQADGFzSW5zdGFuY2VPZnNxAH4AC7q6YsN0AAxzeW5jaHJvbml6ZWRzcQB+AAtXdn9KdAANJGlzSW5zdGFuY2VPZnNxAH4AC3BOkPd0AAdyZWNlaXZlc3EAfgALdDAGjXQACnByZVJlc3RhcnRzcQB+AAsYnACQdAANYXJvdW5kUmVjZWl2ZXNxAH4AC70ortJ0AAtwb3N0UmVzdGFydHNxAH4AC4wz+Yt0AAhwb3N0U3RvcHNxAH4AC9NoMah0AAlub3RpZnlBbGxzcQB+AAsr7NRkdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAu2R9XbdAAMaXNJbnN0YW5jZU9mc3EAfgALZwxb1XQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAv2N1uidAAOYXJvdW5kUG9zdFN0b3BzcQB+AAuNXcEwdAAGPGluaXQ+c3EAfgALfwqvxXQACHByZVN0YXJ0c3EAfgALV0Y1wHQACXVuaGFuZGxlZHNxAH4AC9uimGV0AAI9PXNxAH4ACyE9NUt0AAVjbG9uZXNxAH4AC58mGgV0AAlub09mQ29pbnNzcQB+AAtJEn9AdAAGc2VuZGVyc3EAfgALQoNxTnQACHRvU3RyaW5nc3EAfgALNAhdtHQAC2xpc3RPZkNvaW5zc3EAfgALa+RqcXQAAiE9c3EAfgALeQFf/3QACGdldENsYXNzc3EAfgALozHfQ3QAAm5lc3EAfgAL2NSscnQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC1k1nX90AAJlcXNxAH4AC6ogqBx0AAIjI3NxAH4AC+Gne5N0AAhmaW5hbGl6ZXNxAH4AC5fPi0R0AAhoYXNoQ29kZXNxAH4AC4hJD6F0AA5hcm91bmRQcmVTdGFydHNxAH4AC21ZXKx0AAZ3b3JrZXJzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBpeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ABt1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AIF4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIAAcHNxAH4AhXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBpTAAJaW5oZXJpdGVkcQB+AGlMAAdwYXJlbnRzcQB+AGl4cQB+AIlzcQB+AIAAcHNxAH4AhXVxAH4AZAAAAABzcQB+AIAAcHNxAH4AhXVxAH4AZAAAAABzcQB+AIAAcHNxAH4AhXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AiHQABUFjdG9yc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCIc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgCldAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ApnNxAH4AmXQABk9iamVjdHNxAH4AnXNxAH4AoHVxAH4AowAAAANzcQB+AKV0AARqYXZhc3EAfgCldAAEbGFuZ3EAfgCsc3EAfgCZdAADQW55c3EAfgCdc3EAfgCgdXEAfgCjAAAAAnNxAH4ApXQABXNjYWxhcQB+AKx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSI9lRQB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABHQzpcRWNsaXBzZSBXb3Jrc3BhY2VcUHJvamVjdDFcUHJvamVjdDFfU2VydmVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQo4B72evDJ0YJ31/U/sq9/F9/CiQ==
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDmVy/FAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwvWCeZnQABHNlbGZzcQB+AAt4O27udAAHY29udGV4dHVxAH4ACQAAACdzcQB+AAt77+8NdAAGbm90aWZ5c3EAfgALXFL3dHQAB1JlY2VpdmVzcQB+AAtx+NQLdAAEd2FpdHNxAH4ACyKUc8h0AA0kYXNJbnN0YW5jZU9mc3EAfgALU0HT5HQAFXJhbmRvbVN0cmluZ0dlbmVyYXRvcnNxAH4AC3wEg0F0AAZlcXVhbHNzcQB+AAvHobvqdAAMYXNJbnN0YW5jZU9mc3EAfgALVBqK6HQADHN5bmNocm9uaXplZHNxAH4AC8bpfDd0AA0kaXNJbnN0YW5jZU9mc3EAfgALEIFtBHQAB3JlY2VpdmVzcQB+AAtK6WRrdAAKcHJlUmVzdGFydHNxAH4AC7WQJL10AA1hcm91bmRSZWNlaXZlc3EAfgALpQb2iXQAC3Bvc3RSZXN0YXJ0c3EAfgALEc6pa3QACHBvc3RTdG9wc3EAfgALz29xD3QACW5vdGlmeUFsbHNxAH4AC8H+2G10AAZzaGEyNTZzcQB+AAvsB/HadAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAtHz3XndAAMaXNJbnN0YW5jZU9mc3EAfgALXffmXXQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAvh+HIXdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAuETxJSdAAGPGluaXQ+c3EAfgALIyNct3QACHByZVN0YXJ0c3EAfgALx++VN3QACXVuaGFuZGxlZHNxAH4ACzi6r+p0AAI9PXNxAH4AC02DJBV0AAVjbG9uZXNxAH4AC0pidm10AAZzZW5kZXJzcQB+AAseqpHxdAAIdG9TdHJpbmdzcQB+AAszRKnddAALbGlzdE9mQ29pbnNzcQB+AAt3cbcrdAACIT1zcQB+AAvEw3FRdAAIZ2V0Q2xhc3NzcQB+AAtBXygcdAAGV29ya2Vyc3EAfgALr4o/S3QAC3N0YXJ0TWluaW5nc3EAfgALUMt6GHQAAm5lc3EAfgALCg51BXQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4ACyCKJ0R0AAJlcXNxAH4ACxt8sJV0AAIjI3NxAH4AC3fCJCh0AAhmaW5hbGl6ZXNxAH4ACwGodU10AAhoYXNoQ29kZXNxAH4ACz4ApUl0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AT3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AgXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AgABwc3EAfgCFc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGlMAAlpbmhlcml0ZWRxAH4AaUwAB3BhcmVudHNxAH4AaXhxAH4AiXNxAH4AgABwc3EAfgCFdXEAfgBkAAAAAHNxAH4AgABwc3EAfgCFdXEAfgBkAAAAAHNxAH4AgABwc3EAfgCFdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCIdAAFQWN0b3JzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AKV0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCmc3EAfgCZdAAGT2JqZWN0c3EAfgCdc3EAfgCgdXEAfgCjAAAAA3NxAH4ApXQABGphdmFzcQB+AKV0AARsYW5ncQB+AKxzcQB+AJl0AANBbnlzcQB+AJ1zcQB+AKB1cQB+AKMAAAACc3EAfgCldAAFc2NhbGFxAH4ArHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFIj2VFAHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEdDOlxFY2xpcHNlIFdvcmtzcGFjZVxQcm9qZWN0MVxQcm9qZWN0MV9TZXJ2ZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEQylhMQpR6nhl1iJMiVkviVEK/w
+external apis:
+0 items
+source infos:
+3 items
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\BitCoin.scala -> 
+AAAAAAAAAAA=
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Master.scala -> 
+AAAAAAAAAAA=
+C:\Eclipse Workspace\Project1\Project1_Server\src\main\scala\Worker.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSI9lRQB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XEVjbGlwc2UgV29ya3NwYWNlXFByb2plY3QxXFByb2plY3QxX1NlcnZlclx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSI9wKOF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XEVjbGlwc2UgV29ya3NwYWNlXFByb2plY3QxXFByb2plY3QxX1NlcnZlclx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSI9xc2R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XEVjbGlwc2UgV29ya3NwYWNlXFByb2plY3QxXFByb2plY3QxX1NlcnZlclx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSI93+Vd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XEVjbGlwc2UgV29ya3NwYWNlXFByb2plY3QxXFByb2plY3QxX1NlcnZlclx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==

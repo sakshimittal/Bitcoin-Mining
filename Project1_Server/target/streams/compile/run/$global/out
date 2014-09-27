@@ -1,0 +1,39 @@
+[0m[[0minfo[0m] [0mRunning MainProg 3[0m
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/cise/homes/smittal/Downloads/Project1/Project1_Server/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0m	/cise/homes/smittal/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.3.6.jar[0m
+[0m[[0mdebug[0m] [0m	/cise/homes/smittal/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar[0m
+[0m[[0mdebug[0m] [0m	/cise/homes/smittal/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar[0m
+[0m[[0mdebug[0m] [0m	/cise/homes/smittal/.ivy2/cache/com.typesafe.akka/akka-remote_2.10/jars/akka-remote_2.10-2.3.6.jar[0m
+[0m[[0mdebug[0m] [0m	/cise/homes/smittal/.ivy2/cache/io.netty/netty/bundles/netty-3.8.0.Final.jar[0m
+[0m[[0mdebug[0m] [0m	/cise/homes/smittal/.ivy2/cache/com.google.protobuf/protobuf-java/bundles/protobuf-java-2.5.0.jar[0m
+[0m[[0mdebug[0m] [0m	/cise/homes/smittal/.ivy2/cache/org.uncommons.maths/uncommons-maths/jars/uncommons-maths-1.2.2a.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
+[0m[[0mdebug[0m] [0m	Thread run-main exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread New I/O boss #3 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread serverSystem-9 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread serverSystem-6 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread serverSystem-6 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread serverSystem-10 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread serverSystem-10 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread serverSystem-11 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread serverSystem-11 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread serverSystem-akka.actor.default-dispatcher-2 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread serverSystem-akka.actor.default-dispatcher-2 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread serverSystem-7 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread serverSystem-7 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread serverSystem-akka.remote.default-remote-dispatcher-4 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread serverSystem-akka.remote.default-remote-dispatcher-4 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread serverSystem-akka.actor.default-dispatcher-3 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread serverSystem-akka.actor.default-dispatcher-3 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread serverSystem-akka.remote.default-remote-dispatcher-5 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread serverSystem-akka.remote.default-remote-dispatcher-5 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread serverSystem-scheduler-1 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread serverSystem-scheduler-1 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread serverSystem-12 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread serverSystem-12 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m

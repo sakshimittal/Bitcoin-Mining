@@ -1,0 +1,437 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+28 items
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$DoneMining$.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$FinalResult$.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$FinalResult.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$FindBitCoin$.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$MessageType.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$ResultFromRemote$.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$ResultFromRemote.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$ReturnBitCoin$.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$ReturnBitCoin.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$StartBitMining$.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$StartBitMining.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$StartWork$.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$StartWork.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoinRemote$$anonfun$2.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoinRemote$$anonfun$receive$1$$anonfun$3.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoinRemote$$anonfun$receive$1.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoinRemote.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\MainProg$$anonfun$1.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\MainProg$.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\MainProg.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\Master$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\Master$$anonfun$receive$1.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\Master.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\Worker$$anonfun$receive$1.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\Worker$$anonfun$sha256$1.class
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\Worker.class
+binary dependencies:
+10 items
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Program Files\Java\jre8\lib\rt.jar
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Users\Sakshi\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Users\Sakshi\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Users\Sakshi\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> C:\Program Files\Java\jre8\lib\rt.jar
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> C:\Users\Sakshi\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> C:\Users\Sakshi\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> C:\Program Files\Java\jre8\lib\rt.jar
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> C:\Users\Sakshi\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> C:\Users\Sakshi\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+4 items
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+28 items
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoin
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoin$
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoin$DoneMining$
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoin$FinalResult
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoin$FinalResult$
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoin$FindBitCoin$
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoin$MessageType
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoin$ResultFromRemote
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoin$ResultFromRemote$
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoin$ReturnBitCoin
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoin$ReturnBitCoin$
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoin$StartBitMining
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoin$StartBitMining$
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoin$StartWork
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoin$StartWork$
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoinRemote
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoinRemote$$anonfun$2
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoinRemote$$anonfun$receive$1
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoinRemote$$anonfun$receive$1$$anonfun$3
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> MainProg
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> MainProg$
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> MainProg$$anonfun$1
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> Master
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> Master$$anonfun$receive$1
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> Master$$anonfun$receive$1$$anonfun$applyOrElse$1
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> Worker
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> Worker$$anonfun$receive$1
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> Worker$$anonfun$sha256$1
+used names:
+255 items
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> !
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> &&
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> +
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> <init>
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> ==
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> A1
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> AbstractFunction1
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> AbstractFunction2
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> AbstractFunction3
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> Actor
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> ActorRef
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> ActorSystem
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> AddressFromURIString
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> AnyRef
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> App
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> Array
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> ArrayBuffer
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> B1
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoin
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> BitCoinRemote
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> Breaks
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> ClassTag
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> ConfigFactory
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> DoneMining
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> Duration
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> ExecutionContext
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> Failure
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> FinalResult
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> FindBitCoin
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> Function1
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> Future
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> Implicits
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> InetAddress
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> Int
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> Long
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> MainProg
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> Map
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> Master
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> MessageType
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> None
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> Predef
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> Product
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> Props
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> ResultFromRemote
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> ReturnBitCoin
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> ScalaRunTime
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> Serializable
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> StartBitMining
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> StartWork
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> Statics
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> String
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> Success
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> System
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> Unit
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> _hashCode
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> _toString
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> actor
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> actorOf
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> actorRef2Scala
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> actorSelection
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> akka
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> anyHash
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> apply
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> asInstanceOf
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> collection
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> com
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> concurrent
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> config
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> context
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> control
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> duration
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> e
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> eq
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> exception
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> exit
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> finalizeHash
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> future
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> getHostAddress
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> getLocalHost
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> global
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> hostIP
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> isInstanceOf
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> java
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> lang
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> length
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> listOfCoins
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> load
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> longHash
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> master
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> masterRef
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> materializeClassTag
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> mix
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> mutable
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> net
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> noOfZeros
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> noOfcoins
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> onComplete
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> package
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> parseString
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> path
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> printStackTrace
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> remoteSystem
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> resolveOne
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> runtime
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> scala
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> self
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> server
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> serverMaster
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> server_=
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> shutdown
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> start
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> startTimer
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> stop
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> system
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> toString
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> typedProductIterator
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> typesafe
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> unchecked
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> util
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> value
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> ||
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> !
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> +
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> <init>
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> ==
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> A1
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> Actor
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> ActorRef
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> B1
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> BitCoin
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> ClassTag
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> DoneMining
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> FindBitCoin
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> Function1
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> Int
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> Long
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> Map
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> Master
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> Predef
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> Props
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> RoundRobinRouter
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> String
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> Worker
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> actor
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> actorOf
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> actorRef2Scala
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> akka
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> apply
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> asInstanceOf
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> bitCoin
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> context
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> foreach
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> intWrapper
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> isInstanceOf
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> listByWorker
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> listOfCoins
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> materializeClassTag
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> noOfCoins
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> noOfWorkers
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> noOfZeros
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> noWorkerDone
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> noWorkerDone_=
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> package
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> println
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> routing
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> scala
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> self
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> serverMaster
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> shutdown
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> startTimer
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> stop
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> stringLength
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> system
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> to
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> unchecked
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> withRouter
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> worker
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> !
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> !=
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> +
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> ++
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> -
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> ->
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> <init>
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> ==
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> A1
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> Actor
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> Array
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> B1
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> BitCoin
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> ClassTag
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> DoneMining
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> Function1
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> Int
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> Long
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> Map
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> MessageDigest
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> Predef
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> Random
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> String
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> StringCanBuildFrom
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> System
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> Worker
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> actor
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> actorRef2Scala
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> akka
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> apply
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> asInstanceOf
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> augmentString
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> byteArrayOps
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> canBuildFrom
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> charAt
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> collection
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> context
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> currentTimeMillis
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> digest
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> empty
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> equals
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> format
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> getBytes
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> getInstance
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> immutable
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> input
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> isInstanceOf
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> java
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> lang
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> length
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> listOfCoins
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> listOfCoins_=
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> m
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> map
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> materializeClassTag
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> mkString
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> n
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> nextPrintableChar
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> output
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> package
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> randomStringGenerator
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> refArrayOps
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> s
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> scala
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> security
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> self
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> sender
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> sha256
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> size
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> start
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> startMining
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> stop
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> toString
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> unchecked
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> util
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> while$1
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> x
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> y
+product stamps:
+28 items
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$.class -> lastModified(1411156162264)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$DoneMining$.class -> lastModified(1411156162313)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$FinalResult$.class -> lastModified(1411156162342)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$FinalResult.class -> lastModified(1411156162335)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$FindBitCoin$.class -> lastModified(1411156162348)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$MessageType.class -> lastModified(1411156162351)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$ResultFromRemote$.class -> lastModified(1411156162356)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$ResultFromRemote.class -> lastModified(1411156162364)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$ReturnBitCoin$.class -> lastModified(1411156162379)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$ReturnBitCoin.class -> lastModified(1411156162372)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$StartBitMining$.class -> lastModified(1411156162397)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$StartBitMining.class -> lastModified(1411156162390)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$StartWork$.class -> lastModified(1411156162403)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin$StartWork.class -> lastModified(1411156162412)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoin.class -> lastModified(1411156162214)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoinRemote$$anonfun$2.class -> lastModified(1411156162446)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoinRemote$$anonfun$receive$1$$anonfun$3.class -> lastModified(1411156162464)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoinRemote$$anonfun$receive$1.class -> lastModified(1411156162459)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\BitCoinRemote.class -> lastModified(1411156162425)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\MainProg$$anonfun$1.class -> lastModified(1411156162487)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\MainProg$.class -> lastModified(1411156162483)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\MainProg.class -> lastModified(1411156162472)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\Master$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1411156162513)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\Master$$anonfun$receive$1.class -> lastModified(1411156162507)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\Master.class -> lastModified(1411156162499)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\Worker$$anonfun$receive$1.class -> lastModified(1411156162542)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\Worker$$anonfun$sha256$1.class -> lastModified(1411156162547)
+C:\Eclipse Workspace\Project1\Project1_Remote\target\scala-2.11\classes\Worker.class -> lastModified(1411156162531)
+source stamps:
+3 items
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> hash(18c52353f7e8ca51a86f9bcbeffb9b5efc634694)
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> hash(0306fefb95c95e4f7c8b6491572a8d9ad39d092d)
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> hash(f26b05383bed8676eacf01feb7f83dc85a09f5e3)
+binary stamps:
+4 items
+C:\Program Files\Java\jre8\lib\rt.jar -> lastModified(1399930202556)
+C:\Users\Sakshi\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar -> lastModified(1409900350000)
+C:\Users\Sakshi\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar -> lastModified(1399042454000)
+C:\Users\Sakshi\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar -> lastModified(1406097530000)
+class names:
+4 items
+C:\Program Files\Java\jre8\lib\rt.jar -> java.lang.Object
+C:\Users\Sakshi\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar -> akka.actor.Actor
+C:\Users\Sakshi\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar -> com.typesafe.config.Config
+C:\Users\Sakshi\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar -> scala.Serializable
+internal apis:
+3 items
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAbN/4KAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwo5cOD3QABHNlbGZzcQB+AAse0qnTdAAHY29udGV4dHVxAH4ACQAAAElzcQB+AAsb/8wodAAJbm9PZlplcm9zc3EAfgAL2BBG/HQABm5vdGlmeXNxAH4AC2s+0NV0AAd1bmFwcGx5c3EAfgALAoHPsHQAB2N1cnJpZWRzcQB+AAvboRx3dAAHUmVjZWl2ZXNxAH4ACy3xcUJ0AAltYXN0ZXJSZWZzcQB+AAtTPxnodAAKc3RhcnRUaW1lcnNxAH4ACy5F4Td0AAR3YWl0c3EAfgALXxBflnQADmNvcHkkZGVmYXVsdCQyc3EAfgALzYXvaXQADSRhc0luc3RhbmNlT2ZzcQB+AAsD41QSdAAGc2VydmVyc3EAfgALPzaiYHQAB2NvbXBvc2VzcQB+AAvlnB8NdAAMcHJvZHVjdEFyaXR5c3EAfgALzcK2SXQABmVxdWFsc3NxAH4ACzFLozV0AAxhc0luc3RhbmNlT2ZzcQB+AAtcG6aidAAOZXhlY3V0aW9uU3RhcnRzcQB+AAv+aOmJdAAKRG9uZU1pbmluZ3NxAH4ACws2AF10AAxzeW5jaHJvbml6ZWRzcQB+AAuvr3CpdAANJGlzSW5zdGFuY2VPZnNxAH4ACxqF4kZ0AAdhbmRUaGVuc3EAfgALY92j9XQAB3JlY2VpdmVzcQB+AAum8r6HdAAKcHJlUmVzdGFydHNxAH4AC1a74it0AAZ0dXBsZWRzcQB+AAtiEGevdAANYXJvdW5kUmVjZWl2ZXNxAH4ACwXsni10AA1SZXR1cm5CaXRDb2luc3EAfgAL0IZlIHQACGNhbkVxdWFsc3EAfgALJv5hX3QAC3Bvc3RSZXN0YXJ0c3EAfgALNAAIWHQABG1haW5zcQB+AAsEOVxUdAAIcG9zdFN0b3BzcQB+AAttwkiAdAANcHJvZHVjdFByZWZpeHNxAH4AC/f0+VJ0AAlub3RpZnlBbGxzcQB+AAss2rNSdAALcmVhZFJlc29sdmVzcQB+AAsTwSRTdAAITWFpblByb2dzcQB+AAvy3ijOdAALRmluYWxSZXN1bHRzcQB+AAsx1I1SdAALTWVzc2FnZVR5cGVzcQB+AAtse8F6dAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAucfSEqdAAOU3RhcnRCaXRNaW5pbmdzcQB+AAsp3hQTdAAMaXNJbnN0YW5jZU9mc3EAfgALJggZqnQACVN0YXJ0V29ya3NxAH4ACyntAcB0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALTjox03QADmFyb3VuZFBvc3RTdG9wc3EAfgALGgQGTnQABjxpbml0PnNxAH4AC24Bzhh0AAlub09mY29pbnNzcQB+AAsN27IgdAAIcHJlU3RhcnRzcQB+AAt0547SdAAQUmVzdWx0RnJvbVJlbW90ZXNxAH4AC0OSaMd0AAl1bmhhbmRsZWRzcQB+AAuZqEQ+dAAFYXBwbHlzcQB+AAtUVU2cdAACPT1zcQB+AAsbLZt2dAAFY2xvbmVzcQB+AAstDT5WdAANQml0Q29pblJlbW90ZXNxAH4AC5VU3fJ0AAtGaW5kQml0Q29pbnNxAH4AC62ogIJ0AA5jb3B5JGRlZmF1bHQkM3NxAH4AC/FdVa90AARjb3B5c3EAfgALk7OoIXQABnNlbmRlcnNxAH4AC/G008R0AAh0b1N0cmluZ3NxAH4AC4IdfzN0AARhcmdzc3EAfgALVryj+nQABmxlbmd0aHNxAH4AC4L6C6x0AAtsaXN0T2ZDb2luc3NxAH4AC/R3iop0AAIhPXNxAH4ACwpKDR50AAhnZXRDbGFzc3NxAH4AC7YUxBd0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC95ogPd0AAdCaXRDb2luc3EAfgAL5Ga9KnQABXN0YXJ0c3EAfgALkmIfV3QAAm5lc3EAfgALH9qJOnQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC7o3KV50AAJlcXNxAH4ACyQ1LXR0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAtf+x8kdAALZGVsYXllZEluaXRzcQB+AAtH2QFbdAACIyNzcQB+AAu6W41XdAAIZmluYWxpemVzcQB+AAt5YrkXdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAvCmR36dAAIaGFzaENvZGVzcQB+AAuC5aCndAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCteHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AFN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAQc2NhbGEuZGVwcmVjYXRlZHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Axnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AxQBwc3EAfgDKc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AK1MAAlpbmhlcml0ZWRxAH4ArUwAB3BhcmVudHNxAH4ArXhxAH4AznNxAH4AxQBwc3EAfgDKdXEAfgCoAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCucQB+ALd1cQB+ALgAAAAAc3EAfgC6AnEAfgBJdXEAfgC8AAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AM10AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgDNc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDrdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4A2HhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4Av3QABVBsYWlucQB+AIFzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AN9bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AM1zcQB+AN50AAVBcnJheXEAfgDkdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AN50AAZTdHJpbmdzcQB+AOJzcQB+AOV1cQB+AOgAAAADc3EAfgDqdAAEamF2YXNxAH4A6nQABGxhbmdxAH4A73NxAH4AxQBwc3EAfgDKdXEAfgCoAAAAAHNxAH4AxQBwc3EAfgDKdXEAfgECAAAABHNxAH4A3nQAA0FwcHEAfgDkc3EAfgDedAALRGVsYXllZEluaXRxAH4A5HNxAH4A3nQABk9iamVjdHEAfgEGc3EAfgDedAADQW55cQB+AORzcQB+AKpxAH4At3VxAH4AuAAAAABzcQB+ALoAcQB+AI11cQB+ALwAAAAAcQB+AMB1cQB+AMIAAAAAc3EAfgDFAHBzcQB+AMpxAH4Az3NxAH4AxQBwc3EAfgDKc3EAfgDSc3EAfgDFAHBzcQB+AMp1cQB+AKgAAAAAc3EAfgDFAHBzcQB+AMp1cQB+AKgAAAAAc3EAfgDFAHBzcQB+AMp1cQB+AQIAAAACc3EAfgDecQB+ARhzcQB+AOJzcQB+AOV1cQB+AOgAAAADc3EAfgDqcQB+AQpzcQB+AOpxAH4BDHEAfgDvc3EAfgDecQB+ARpzcQB+AOJzcQB+AOV1cQB+AOgAAAACc3EAfgDqcQB+AO1xAH4A73NxAH4AqnEAfgC3dXEAfgC4AAAAAHNxAH4AugBxAH4AdXVxAH4AvAAAAAB+cQB+AL50AAhDbGFzc0RlZnVxAH4AwgAAAABzcQB+AMUAcHNxAH4AynEAfgDPc3EAfgDFAHBzcQB+AMpzcQB+ANJzcQB+AMUAcHNxAH4AynVxAH4AqAAAAABzcQB+AMUAcHNxAH4AynVxAH4AqAAAAABzcQB+AMUAcHNxAH4AynVxAH4BAgAAAANzcQB+AN50AAVBY3RvcnNxAH4A4nNxAH4A5XVxAH4A6AAAAANzcQB+AOp0AARha2thc3EAfgDqdAAFYWN0b3JxAH4A73NxAH4A3nEAfgEYc3EAfgDic3EAfgDldXEAfgDoAAAAA3NxAH4A6nEAfgEKc3EAfgDqcQB+AQxxAH4A73NxAH4A3nEAfgEac3EAfgDic3EAfgDldXEAfgDoAAAAAnNxAH4A6nEAfgDtcQB+AO91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSI92IlN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABHQzpcRWNsaXBzZSBXb3Jrc3BhY2VcUHJvamVjdDFcUHJvamVjdDFfUmVtb3RlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQYxSNT9+jKUahvm8vv+5te/GNGlA==
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAOa38WAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwzEGTq3QABHNlbGZzcQB+AAvtg0pkdAAHY29udGV4dHVxAH4ACQAAACdzcQB+AAvnTKmMdAAGbm90aWZ5c3EAfgALPdSJcXQAB1JlY2VpdmVzcQB+AAu/FXg4dAAEd2FpdHNxAH4AC/Nj3Y90AAZNYXN0ZXJzcQB+AAsl6yfGdAANJGFzSW5zdGFuY2VPZnNxAH4ACwc2Nn50AAZlcXVhbHNzcQB+AAu8YARtdAAMYXNJbnN0YW5jZU9mc3EAfgALurpiw3QADHN5bmNocm9uaXplZHNxAH4AC1d2f0p0AA0kaXNJbnN0YW5jZU9mc3EAfgALcE6Q93QAB3JlY2VpdmVzcQB+AAt0MAaNdAAKcHJlUmVzdGFydHNxAH4ACxicAJB0AA1hcm91bmRSZWNlaXZlc3EAfgALvSiu0nQAC3Bvc3RSZXN0YXJ0c3EAfgALjDP5i3QACHBvc3RTdG9wc3EAfgAL02gxqHQACW5vdGlmeUFsbHNxAH4ACyvs1GR0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC7ZH1dt0AAxpc0luc3RhbmNlT2ZzcQB+AAtnDFvVdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC/Y3W6J0AA5hcm91bmRQb3N0U3RvcHNxAH4AC2iT3XF0AAY8aW5pdD5zcQB+AAt/Cq/FdAAIcHJlU3RhcnRzcQB+AAtXRjXAdAAJdW5oYW5kbGVkc3EAfgAL26KYZXQAAj09c3EAfgALIT01S3QABWNsb25lc3EAfgALnyYaBXQACW5vT2ZDb2luc3NxAH4AC0kSf0B0AAZzZW5kZXJzcQB+AAtCg3FOdAAIdG9TdHJpbmdzcQB+AAufGChJdAAMbm9Xb3JrZXJEb25lc3EAfgALNAhdtHQAC2xpc3RPZkNvaW5zc3EAfgALa+RqcXQAAiE9c3EAfgALeQFf/3QACGdldENsYXNzc3EAfgALozHfQ3QAAm5lc3EAfgAL2NSscnQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC1k1nX90AAJlcXNxAH4AC6ogqBx0AAIjI3NxAH4AC+Gne5N0AAhmaW5hbGl6ZXNxAH4AC5fPi0R0AAhoYXNoQ29kZXNxAH4AC4hJD6F0AA5hcm91bmRQcmVTdGFydHNxAH4AC21ZXKx0AAZ3b3JrZXJzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBpeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ABl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AIF4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIAAcHNxAH4AhXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBpTAAJaW5oZXJpdGVkcQB+AGlMAAdwYXJlbnRzcQB+AGl4cQB+AIlzcQB+AIAAcHNxAH4AhXVxAH4AZAAAAABzcQB+AIAAcHNxAH4AhXVxAH4AZAAAAABzcQB+AIAAcHNxAH4AhXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AiHQABUFjdG9yc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCIc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgCldAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ApnNxAH4AmXQABk9iamVjdHNxAH4AnXNxAH4AoHVxAH4AowAAAANzcQB+AKV0AARqYXZhc3EAfgCldAAEbGFuZ3EAfgCsc3EAfgCZdAADQW55c3EAfgCdc3EAfgCgdXEAfgCjAAAAAnNxAH4ApXQABXNjYWxhcQB+AKx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSI92IlN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABHQzpcRWNsaXBzZSBXb3Jrc3BhY2VcUHJvamVjdDFcUHJvamVjdDFfUmVtb3RlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQDBv77lcleT3yLZJFXKo2a050JLQ==
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDmVy/FAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwvWCeZnQABHNlbGZzcQB+AAt4O27udAAHY29udGV4dHVxAH4ACQAAACdzcQB+AAt77+8NdAAGbm90aWZ5c3EAfgALXFL3dHQAB1JlY2VpdmVzcQB+AAtx+NQLdAAEd2FpdHNxAH4ACyKUc8h0AA0kYXNJbnN0YW5jZU9mc3EAfgALU0HT5HQAFXJhbmRvbVN0cmluZ0dlbmVyYXRvcnNxAH4AC3wEg0F0AAZlcXVhbHNzcQB+AAvHobvqdAAMYXNJbnN0YW5jZU9mc3EAfgALVBqK6HQADHN5bmNocm9uaXplZHNxAH4AC8bpfDd0AA0kaXNJbnN0YW5jZU9mc3EAfgALEIFtBHQAB3JlY2VpdmVzcQB+AAtK6WRrdAAKcHJlUmVzdGFydHNxAH4AC7WQJL10AA1hcm91bmRSZWNlaXZlc3EAfgALpQb2iXQAC3Bvc3RSZXN0YXJ0c3EAfgALEc6pa3QACHBvc3RTdG9wc3EAfgALz29xD3QACW5vdGlmeUFsbHNxAH4AC8H+2G10AAZzaGEyNTZzcQB+AAvsB/HadAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAtHz3XndAAMaXNJbnN0YW5jZU9mc3EAfgALXffmXXQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAvh+HIXdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAuETxJSdAAGPGluaXQ+c3EAfgALIyNct3QACHByZVN0YXJ0c3EAfgALx++VN3QACXVuaGFuZGxlZHNxAH4ACzi6r+p0AAI9PXNxAH4AC02DJBV0AAVjbG9uZXNxAH4AC0pidm10AAZzZW5kZXJzcQB+AAseqpHxdAAIdG9TdHJpbmdzcQB+AAszRKnddAALbGlzdE9mQ29pbnNzcQB+AAt3cbcrdAACIT1zcQB+AAvEw3FRdAAIZ2V0Q2xhc3NzcQB+AAtBXygcdAAGV29ya2Vyc3EAfgALr4o/S3QAC3N0YXJ0TWluaW5nc3EAfgALUMt6GHQAAm5lc3EAfgALCg51BXQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4ACyCKJ0R0AAJlcXNxAH4ACxt8sJV0AAIjI3NxAH4AC3fCJCh0AAhmaW5hbGl6ZXNxAH4ACwGodU10AAhoYXNoQ29kZXNxAH4ACz4ApUl0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AT3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AgXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AgABwc3EAfgCFc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGlMAAlpbmhlcml0ZWRxAH4AaUwAB3BhcmVudHNxAH4AaXhxAH4AiXNxAH4AgABwc3EAfgCFdXEAfgBkAAAAAHNxAH4AgABwc3EAfgCFdXEAfgBkAAAAAHNxAH4AgABwc3EAfgCFdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCIdAAFQWN0b3JzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AKV0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCmc3EAfgCZdAAGT2JqZWN0c3EAfgCdc3EAfgCgdXEAfgCjAAAAA3NxAH4ApXQABGphdmFzcQB+AKV0AARsYW5ncQB+AKxzcQB+AJl0AANBbnlzcQB+AJ1zcQB+AKB1cQB+AKMAAAACc3EAfgCldAAFc2NhbGFxAH4ArHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFIj3YiU3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEdDOlxFY2xpcHNlIFdvcmtzcGFjZVxQcm9qZWN0MVxQcm9qZWN0MV9SZW1vdGVcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPJrBTg77YZ26s8B/rf4PchaCfXj
+external apis:
+0 items
+source infos:
+3 items
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\BitCoinRemote.scala -> 
+AAAAAAAAAAA=
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\MasterRemote.scala -> 
+AAAAAAAAAAA=
+C:\Eclipse Workspace\Project1\Project1_Remote\src\main\scala\WorkerRemote.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSI92IlN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XEVjbGlwc2UgV29ya3NwYWNlXFByb2plY3QxXFByb2plY3QxX1JlbW90ZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
